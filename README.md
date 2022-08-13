@@ -13,7 +13,7 @@ sinetxt-xiwangly.txt是我从sinetxt.xlsx导出的新浪图片链接地址（仅
 感谢以下单位或个人提供的数据，以下是引用的数据地址：
 
 - [动漫星空API官网 - 免费提供API服务](https://api.dongmanxingkong.com/)
-- [[源码分享\]随机二次元接口源码-双版本 - 苏晓晴-一个温馨的技术博客]https://www.toubiec.cn/99.html
+- [源码分享-随机二次元接口源码-双版本 - 苏晓晴-一个温馨的技术博客](https://www.toubiec.cn/99.html)
 - [随机二次元图片API-樱花](https://www.dmoe.cc/sinetxt.txt)
 - [天合API](https://api.ococn.cn/sinetxt.txt)
 - 某不知名网友分享的包含数据文件的`api源码.zip`
